@@ -1,8 +1,12 @@
 # Dataset
 raw/
 
-# Claude local config
-.claude/settings.local.json
+# Claude
+.claude/
+CLAUDE.md
+
+# Knowledge base
+knowledge/
 
 # Python
 __pycache__/
