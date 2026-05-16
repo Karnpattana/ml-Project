@@ -1,0 +1,23 @@
+# Dataset
+raw/
+
+# Claude local config
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ML artifacts
+*.pt
+*.pth
+*.h5
+*.pkl
+*.onnx
+
+# Environments
+.venv/
+venv/
+.env
